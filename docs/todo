@@ -1,0 +1,2 @@
+1. Look at the amazon API requesting function, and what data to extract.
+2. Make the backend data structure, using the data from the API to decide what we actually need.
